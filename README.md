@@ -19,9 +19,14 @@
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: henrique.jc2020@gmail.com">
       <img width="30" src="gmail.svg">
+    <a href = "https://www.linkedin.com/in/henrique-cardoso-057708242">
+      <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-	@@ -36,4 +33,4 @@
+<!--     <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+      <img width="35" src="youtube.svg">
+    </a> -->
+    <a href = "https://www.instagram.com/henry.cardosoo/">
+      <img width="25" src="instagram.png">
     </a>
 </div>
 

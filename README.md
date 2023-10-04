@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueCardosoo&theme=holi&show_icons=true" />
 </a>
 <a href="https://github.com/HenriqueCardosoo/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueCardosoo&layout=compact&theme=holi&show_icons=true&langs_count=8&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueCardosoo&layout=compact&theme=holi&show_icons=true&langs_count=8&card_width=320" />
 </a>
 
 </div>

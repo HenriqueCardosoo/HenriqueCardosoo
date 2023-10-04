@@ -4,7 +4,7 @@
   
 <a href="https://github.com/HenriqueCardosoo/github-readme-stats">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueCardosoo&theme=holi&show_icons=true" />
-</a> |
+</a> 
 <a href="https://github.com/HenriqueCardosoo/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueCardosoo&layout=compact&theme=holi&show_icons=true&langs_count=8" />
 </a>

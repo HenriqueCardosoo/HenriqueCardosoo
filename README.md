@@ -2,8 +2,13 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCardosoo&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCardosoo&layout=compact&langs_count=16&theme=holi"/>
+<a href="https://github.com/HenriqueCardosoo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueCardosoo&theme=holi&show_icons=true" />
+</a>
+<a href="https://github.com/HenriqueCardosoo/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueCardosoo&layout=compact&theme=holi&show_icons=true&langs_count=8&card_width=320" />
+</a>
+
 </div>
 <br>
 
@@ -31,5 +36,7 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
+
+
 
 <!--[Snake animation](https://github.com/HenriqueCardosoo/HenriqueCardosoo/blob/output/github-contribution-grid-snake.svg) -->
